@@ -1,0 +1,13 @@
+h1 {
+    color: rebeccapurple;
+    text-align: center;
+}
+p{
+    color:royalblue;
+    font-family: Georgia;
+    text-size-adjust: 30px;
+}
+ul{
+    color:red;
+    line-height: 40px;
+}
